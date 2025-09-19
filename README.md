@@ -2,4 +2,4 @@
 
 ctrl + shift + b - PARA BUILDAR
 
-binary/thread - PARA RODAR
+./binary/thread - PARA RODAR
