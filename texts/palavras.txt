@@ -1,0 +1,12 @@
+deadlock
+escalonamento
+threads
+processo
+linux
+windows
+produtor
+consumidor
+pronto
+bloqueado
+executando
+ocioso

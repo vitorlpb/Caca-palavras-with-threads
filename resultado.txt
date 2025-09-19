@@ -1,0 +1,14 @@
+Palavras encontradas: 12
+
+deadlock: inicio=(24,61) fim=(24,68)
+produtor: inicio=(454,57) fim=(461,57)
+processo: inicio=(508,21) fim=(508,28)
+bloqueado: inicio=(754,12) fim=(762,12)
+escalonamento: inicio=(42,1) fim=(42,13)
+consumidor: inicio=(334,17) fim=(343,17)
+linux: inicio=(620,46) fim=(620,50)
+executando: inicio=(939,65) fim=(948,65)
+ocioso: inicio=(8,71) fim=(13,71)
+pronto: inicio=(225,41) fim=(230,41)
+threads: inicio=(475,42) fim=(475,48)
+windows: inicio=(592,61) fim=(592,55)
